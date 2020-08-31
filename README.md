@@ -1,3 +1,8 @@
 # struts
 Script baseado no github.com/Clust3rGit.
-Owna as padoca ai rapaziada szzzz
+<br>
+Owna as padoca ai rapaziada szzzz.
+<br>
+<br>
+# Como usar:
+python3 exp.py -u 'site.com.br' 
